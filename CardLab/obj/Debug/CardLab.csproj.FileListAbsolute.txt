@@ -1,0 +1,6 @@
+C:\Users\tmace\Documents\csis2530\classLabs\CardLab\CardLab\bin\Debug\CardLab.exe.config
+C:\Users\tmace\Documents\csis2530\classLabs\CardLab\CardLab\obj\Debug\CardLab.csprojResolveAssemblyReference.cache
+C:\Users\tmace\Documents\csis2530\classLabs\CardLab\CardLab\bin\Debug\CardLab.exe
+C:\Users\tmace\Documents\csis2530\classLabs\CardLab\CardLab\bin\Debug\CardLab.pdb
+C:\Users\tmace\Documents\csis2530\classLabs\CardLab\CardLab\obj\Debug\CardLab.exe
+C:\Users\tmace\Documents\csis2530\classLabs\CardLab\CardLab\obj\Debug\CardLab.pdb
